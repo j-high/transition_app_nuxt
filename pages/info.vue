@@ -1,11 +1,11 @@
 <template>
 <div>
-  index
+  info
 </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: 'info'
 }
 </script>
